@@ -1,4 +1,4 @@
-# Goodnesseer (AnonyShare)
+# Goodnesseer
 
 Goodnesseer is an online platform that allows users to ask questions, share thoughts, express emotions, and seek advice anonymously. The platform creates a safe, judgment-free environment where people can receive feedback, empathy, or solutions from others.
 
